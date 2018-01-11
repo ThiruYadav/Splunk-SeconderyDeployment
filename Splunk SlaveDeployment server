@@ -1,4 +1,4 @@
-plunk-SeconderyDeployment
+Splunk-SeconderyDeployment
 Splunk SeconderyDeployment Code Steps:
 Make SeconderyDeployment poll to Primary deployment server----verfie by the command "splunk cmd btool deploymentclient list"
 Verfiy that Splunk Secondary deployment server is able to communicate with Primary deployment server--telnet Primary Deployment server:8089
